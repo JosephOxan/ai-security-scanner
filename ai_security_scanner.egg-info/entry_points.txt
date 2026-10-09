@@ -1,0 +1,2 @@
+[console_scripts]
+aicheck = ai_scanner_pro:main
